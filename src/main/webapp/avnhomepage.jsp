@@ -64,6 +64,7 @@ color:white;
 <a href="" style="color: white;font-size: 20px;position: absolute;left:56px;">Configure</a><br>
 </section>
 <div>
+<!--Dummy  -->
 </div>
 <div class="text-center">
    <span id="fullyear">2017</span>
