@@ -83,7 +83,7 @@ public class ftat {
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		driver.findElement(By.xpath("//h2[text()='Repair Ticket Page']")).isDisplayed();
 	}
-
+//Test code for starting 
 	@Test(priority = 3)
 	public void pageredirection() {
 		driver.findElement(By.partialLinkText("Home")).click();
