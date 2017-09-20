@@ -68,7 +68,7 @@ color:white;
 <div class="text-center">
    <span id="fullyear">2017</span>
    &#169; DEVOPS UNION. All Rights Reserved.<br>
-   | India | Singapore | Belgium | USA | Chennai |
+   | India | Singapore | Belgium | USA |
   </div>
   </form>
 </body>
